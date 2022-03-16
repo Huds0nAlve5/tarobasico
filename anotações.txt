@@ -1,0 +1,22 @@
+for (var atributo in registro/objeto)
+
+var objeto{
+	nome: hudson
+}
+
+esse for mostra 'nome' e outros campos seguintes se tiver
+
+verificar se a opção de um "radio" está marcado
+
+getelement.checked == true
+
+como importar fonte: baixa na internet e no css coloca
+
+@font-face {
+  font-family: Barrio;
+  src: url(../fonts/Barrio-Regular.ttf)
+}
+
+font family -> Barrio no caso
+
+name no radio input é pra ficar 1 só
